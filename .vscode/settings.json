@@ -1,3 +1,4 @@
 {
-    "python.defaultInterpreterPath": "/Users/sukumarsubudhi/.msvscode.hdinsight/hdinsightJupyter/bin/python"
+    "python.defaultInterpreterPath": "/Users/sukumarsubudhi/.msvscode.hdinsight/hdinsightJupyter/bin/python",
+    "python.analysis.typeCheckingMode": "basic"
 }
